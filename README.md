@@ -12,7 +12,7 @@ This package includes MATLAB code for me4Pi reconstruction.
   - MLE fitting (included in this package) (https://github.com/Li-Lab-SUSTech/fit3Dcspline)
   - AIM (included in this package) (https://github.com/YangLiuLab/AIM)
   - DME (included in this package) (https://github.com/qnano/drift-estimation)
-  - ROSE (included in this package) (https://www.nature.com/articles/s41592-019-0544-2)
+  - ROSE-Z (included in this package) (https://www.nature.com/articles/s41592-021-01099-2)
   - 4Pi-SMS (included in this package) (https://github.com/4Pi-SMS-consortium/4Pi-SMS-analysis)
     
 # Installation
