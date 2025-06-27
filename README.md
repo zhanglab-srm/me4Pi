@@ -1,11 +1,11 @@
-# 4Pi-SIMFLUX
-This package includes Matlab code for me4Pi reconstruction.
+# me4Pi
+This package includes MATLAB code for me4Pi reconstruction.
 
 # Requirements
   - Microsoft Windows 10 or newer, 64-bit
   - CUDA-capable graphics card, minimum Compute Capability 4.0
   - CUDA-compatible graphics driver
-  - Matlab R2022b or newer  
+  - MATLAB R2022b or newer  
     - Curve Fitting Toolbox
     - Optimization Toolbox
   - DIPimage Toolbox (http://www.diplib.org/download)
@@ -19,7 +19,7 @@ This package includes Matlab code for me4Pi reconstruction.
   - Download and install Matlab of the right version 
   - Download and install DIPimage
   - Download the code to your computer
-  - Start Matlab and run the code
+  - Start MATLAB and run the code
 
 # Contact
 For any questions/comments about this software, please contact [Zhang Lab](zhanglab@westlake.edu.cn).
